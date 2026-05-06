@@ -18,7 +18,6 @@ A stunning, interactive portfolio website inspired by Steam's profile design, bu
   - Year selector to view stats from current year or previous years
   - Smooth 150ms slide transitions with visual feedback
   - Steam-inspired styling with gradient backgrounds and hover effects
- 
 
 - **🔧 Component Architecture Refactor**: Split Showcases into independent components
   - Separated into FeaturedProjects, AchievementsShowcase, TechnicalSkills, and PersonalHobbies
