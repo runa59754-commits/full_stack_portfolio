@@ -73,7 +73,6 @@ A stunning, interactive portfolio website inspired by Steam's profile design, bu
   - Explains XP system, level tiers, achievement mechanics, and hidden features
   - Tabbed interface: Level Tiers, Achievements, XP Sources, Notifications
   - Unified styling with Achievement Modal for consistency
-
 ### October 10, 2025
 - **🏆 Visitor Achievement System**: Added Steam-style achievement system with 18 achievements
   - Real-time toast notifications when achievements are unlocked
