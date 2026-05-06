@@ -9,6 +9,8 @@ A stunning, interactive portfolio website inspired by Steam's profile design, bu
 
 ## 🆕 Recent Updates
 ### November 3, 2025
+
+
 - **📊 GitHub Replay**: Year-in-code visualization inspired by Spotify Wrapped and Steam Rewind
   - 6-slide interactive carousel showcasing annual GitHub statistics
   - Slide 1: Year Overview (commits, active month, longest streak, days coded)
