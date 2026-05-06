@@ -7,9 +7,6 @@ A stunning, interactive portfolio website inspired by Steam's profile design, bu
 ![Vite](https://img.shields.io/badge/Vite-6.0-646cff?style=for-the-badge&logo=vite)
 
 ## 🆕 Recent Updates
-
-
-
 ### November 3, 2025
 - **📊 GitHub Replay**: Year-in-code visualization inspired by Spotify Wrapped and Steam Rewind
   - 6-slide interactive carousel showcasing annual GitHub statistics
