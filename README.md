@@ -1,7 +1,6 @@
 # 🎮 Steam-Inspired Portfolio
 
 A stunning, interactive portfolio website inspired by Steam's profile design, built with React, TypeScript, and Vite. Features a cosmic theme, smooth animations, and dynamic GitHub integration.
-
 ![Portfolio Preview](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-18.3-61dafb?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178c6?style=for-the-badge&logo=typescript)
